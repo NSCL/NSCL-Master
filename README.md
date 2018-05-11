@@ -68,10 +68,13 @@ reference : "http://dejavuwing.tistory.com/entry/Ubuntu-GitHub-%EC%82%AC%EC%9A%A
 키 생성
 
 ssh-keygen -t rsa -C "your_git_ID@github.com"
+
 passphrase(암호)를 넣어준다. 사용하지 않을 시 엔터로 Pass
 
 Enter passphrase (empty for no passphrase):
+
 Enter same passphrase again:
+
 새로운 키를 에이전트에 추가한다.
 
 eval "$(ssh-agent -s)"
@@ -80,14 +83,17 @@ ssh-add -l
 생성된 ssh-Key 복사
 
 cat ~/.ssh/id_rsa.pub
+
 깃허브 Setting-SSH and GPG Keys 접속 Link 후 복사한 ssh-key 추가
 
 아래의 명령어를 넣고
 
 ssh -T git@github.com
+
 "You've successfully authenticated, but GitHub does not provide shell access." 라는 문구가 나오면 완료
 
 이후
 
 "git clone git@github.com:저장소 경로"
+
 명령어를 통해 인증 없이 Push & Pull 가능
