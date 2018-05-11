@@ -1,4 +1,4 @@
-# nscl
+# NSCL
 
 ## Project - Mobile robot repository
 https://github.com/Geonhee-LEE/mobile_robot.git
