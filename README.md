@@ -32,13 +32,13 @@ Github 개인 정보 등록
 
 
 github 저장소 복제
-> $ sudo git clone https://git@github.com:Geonee/Geonhee.git(your repository URL)
+> $ sudo git clone https://git@github.com:Geonee/Geonhee.git <- (your repository URL)
 
 
 
 원격 저장소 등록
 
-> $ sudo git remote add origin https://git@github.com:Geonee/Geonhee.git(your repository URL)
+> $ sudo git remote add origin https://git@github.com:Geonee/Geonhee.git <- (your repository URL)
 
 > $ sudo git fetch origin
 
