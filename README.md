@@ -13,9 +13,14 @@ https://github.com/Geonhee-LEE/opencr.git
 ## Project - Manipulator repository
 https://github.com/changhee-Jung/manipulator_6dof.git
 
-## Capstone - Dual arm service robot
-https://github.com/NSCL/dual-arm-service-robot.git
 
+## Project - MR Damper repository
+https://github.com/moamoamoa/mr_damper.git
+
+
+
+## Capstone - Dual arm service robot repository
+https://github.com/NSCL/dual-arm-service-robot.git
 
 
 
