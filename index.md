@@ -1,6 +1,6 @@
 # NSCL Repository
 
-NSCL(Nano Sytem Control Lab) at Seoul National Univ. of Science and Technology is led by Prof. [Chibum Leei](http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profidx=02452).
+NSCL(Nano Sytem Control Lab) at Seoul National Univ. of Science and Technology is led by Prof. [Chibum Lee](http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profidx=02452).
 
 
 Dept. of Mechanical system design engineering, Seoul National Univ. of Science and Technology, Hightech 239, 172 Gongneung 2-dong, Nowon-gu, Seoul 139-743, Korea.
