@@ -34,8 +34,8 @@ Dept. of Mechanical system design engineering, Seoul National Univ. of Science a
 > https://github.com/NSCL/jinyoung-manipulator
 
 
+------------------
 
-
-[Link to another page](./another-page.html).
+[Git Hub Tutorial](./another-page.html).
 
 
