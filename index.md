@@ -8,9 +8,9 @@ Dept. of Mechanical system design engineering, Seoul National Univ. of Science a
 ------------------
 
 ## 2018
-> [Service mobile robot(Zetabank) - ROS(Robot Operating Sytem)](https://github.com/NSCL/zetabot_ros)
+> [Service mobile robot - ROS (Zetabank)](https://github.com/NSCL/zetabot_ros)
 
-> [Service mobile robot(Zetabank) - MCU(OpenCR)](https://github.com/NSCL/zetabot_openCR)
+> [Service mobile robot - MCU(OpenCR)(Zetabank)](https://github.com/NSCL/zetabot_openCR)
 
 > [Manipulator(Jinyoung)](https://github.com/changhee-Jung/manipulator_6dof.git)
 
