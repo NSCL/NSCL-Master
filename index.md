@@ -9,7 +9,7 @@ Dept. of Mechanical system design engineering, Seoul National Univ. of Science a
 ------------------
 
 ## ~2017
-> NAS
+> Refer to Laboratory NAS
 
 ------------------
 
